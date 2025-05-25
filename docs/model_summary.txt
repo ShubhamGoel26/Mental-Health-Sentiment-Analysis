@@ -1,0 +1,8 @@
+Regression R²: 0.18
+Significant coefficients:
+has_depression    -0.122136
+has_suicide       -0.186752
+has_stress        -0.112137
+emotion_happy      0.876211
+emotion_neutral    0.361359
+dtype: float64
